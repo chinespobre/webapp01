@@ -8,10 +8,10 @@ image01 = Image.open('banner-gato-1-1.webp')
 st.title("Bem vindo, EMEF/EJA Edson Luis Lima Souto!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Cabeçalho")
+st.header("Gatos são lindos")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Cabeçalho")
+st.subheader(" Gatos fofos")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
